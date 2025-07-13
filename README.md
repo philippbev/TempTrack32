@@ -21,7 +21,7 @@ Das Webinterface läuft direkt auf dem ESP32 und ist über ein WLAN-Access-Point
 
 🔌 Einrichtung
 
-1.	📥 Klone das Repository:
+1.	📥 Klone das Repository
 2.	📦 Installiere die benötigten Bibliotheken über den Bibliotheksverwalter:
 	•	WiFi.h
 	•	WebServer.h
